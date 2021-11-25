@@ -19,7 +19,6 @@
     position: relative;
     width: 400px;
     height: 100vh;
-    max-height: 550px;
     background-color: #011a2b;
     border-right: 5px dashed rgb(255, 255, 255);
     border-left: 5px dashed rgb(255, 255, 255);
